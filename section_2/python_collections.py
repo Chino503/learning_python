@@ -1,5 +1,4 @@
 #This is how Python Collections work
-
 a_list = [1,2,3]
 print(a_list)
 a_list.append([4,5])
